@@ -1,14 +1,11 @@
 {
   "name": "telnet-rxjs",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "A node.js telnet library that wraps the sockets with RxJS observables",
   "keywords": [
     "telnet",
     "rxjs"
   ],
-  "engines": {
-    "node": "8.9.x"
-  },
   "main": "dist/telnet.js",
   "types": "dist/telnet.d.ts",
   "scripts": {
@@ -29,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:herrevilkitten/telnet-rxjs.git"
+    "url": "git@github.com:jey-cee/telnet-rxjs.git"
   },
   "author": {
     "name": "Eric Kidder",
@@ -37,9 +34,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/herrevilkitten/telnet-rxjs/issues"
+    "url": "https://github.com/jey-cee/telnet-rxjs/issues"
   },
-  "homepage": "https://github.com/herrevilkitten/telnet-rxjs",
+  "homepage": "https://github.com/jey-cee/telnet-rxjs",
   "devDependencies": {
     "@types/chai": "^4.1.3",
     "@types/mocha": "^5.2.0",
