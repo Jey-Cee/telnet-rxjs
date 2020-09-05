@@ -1,8 +1,8 @@
-# telnet-rxjs
+# telnet-rxjs-2
 
 A node.js telnet library that wraps the sockets with RxJS observables.
 
-[![Build Status](https://travis-ci.org/herrevilkitten/telnet-rxjs.svg?branch=master)](https://travis-ci.org/herrevilkitten/telnet-rxjs)
+[![Build Status](https://travis-ci.org/jey-cee/telnet-rxjs-2.svg?branch=master)](https://travis-ci.org/jey-cee/telnet-rxjs-2)
 
 ## SYNPOSIS
 
